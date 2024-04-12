@@ -1,0 +1,9 @@
+{
+    "server":"smtp.mail.ru",
+    "login":"логин",
+    "password":"пароль",
+    "recipients":["логин"],
+    "filepath":"путь через \\",
+    "file_archive":"путь через \\",
+    "name_sender":"имя"
+}
